@@ -6,10 +6,10 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Studying Log
+# Study Log
 {: .fs-9 .fw-700 }
 
-Studying List
+Study List
 {: .fs-6 .fw-300 }
 
 ---
