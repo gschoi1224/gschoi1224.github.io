@@ -1,3 +1,12 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+permalink: /
+comments: true 
+---
+
 # Next.js
 {: .fw-700 .fs-9 }
 
@@ -14,9 +23,6 @@
 - 브라우저에서 애플리케이션을 렌더링함
 - 첫 페이지를 불러올 때 모든 자바스크립트 코드들을 불러와서 렌더링함
 
-🩸 첫 페이지 로딩 시간이 오래 걸림
-🩸 검색 엔진이 사이트에 방문했을 때 html 파일이 없기 때문에(렌더링 전까지는 껍데기 html 하나만 있기 때문에) 검색 엔진 최적화(SEO)에 좋지 않음 
-
 || CSR|SSR|
 |:-------------|:------------------|:------|
 | UX| 뛰어남| 떨어짐|
@@ -25,6 +31,8 @@
 | 첫로딩| 느림|빠름|
 
 ## Next.js를 왜 사용해야 하는가?
+- **리액트(SPA)에 서버 사이드 렌더링 기능을 더하여 SPA와 SSR의 장점을 가질 수 있게 해줌**
+- 웹 서버, 웹팩, 데이터 로딩, 코드 스플리팅 등 복잡한 개발 환경 설정 없이 간단하게 사용할 수 있게 해줌
+
+## Next.js의 특징
 - 
-
-
