@@ -125,6 +125,6 @@ compress_html:
   #   envs: all
 
 comments:
-  provider               : "disqus" 
+  provider: "disqus" 
   disqus:
-    shortname            : "gschoi1224.github.io" 
+    shortname: "gschoi1224.github.io" 
