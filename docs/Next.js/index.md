@@ -2,6 +2,7 @@
 layout: default
 nav_order: 2
 comments: true 
+title: 'Next.js'
 ---
 
 # Next.js
