@@ -23,7 +23,6 @@ permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
 , "docs/tests/"
 ]
-disqus_shortname: "gschoi1224.github.io"
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
@@ -124,3 +123,8 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+  omments:
+  provider               : "disqus" 
+  disqus:
+    shortname            : "gschoi1224.github.io" 
