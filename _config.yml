@@ -127,4 +127,4 @@ compress_html:
 comments:
   provider: "disqus" 
   disqus:
-    shortname: "gschoi1224.github.io" 
+    shortname: "cgss-study-log" 
