@@ -153,9 +153,8 @@ layout: table_wrappers
         {% capture footer_custom %}
           {%- include footer_custom.html -%}
         {% endcapture %}
-        <hr>
-
-        <hr>
+        {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link %}
+          <hr>
           <footer>
             {% if site.back_to_top %}
               <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
@@ -185,8 +184,7 @@ layout: table_wrappers
             {% endif %}
           </footer>
         {% endif %}
-       
-          
+
       </div>
     </div>
 
@@ -200,5 +198,12 @@ layout: table_wrappers
       <div class="search-overlay"></div>
     {% endif %}
   </div>
+<script src="https://utteranc.es/client.js"
+        repo="gschoi1224/gschoi1224.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 </body>
 </html>
