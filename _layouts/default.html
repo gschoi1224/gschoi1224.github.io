@@ -154,6 +154,7 @@ layout: table_wrappers
           {%- include footer_custom.html -%}
         {% endcapture %}
         {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link %}
+        {% if site.comments %}
         <hr>
         <script src="https://utteranc.es/client.js"
                 repo="gschoi1224/gschoi1224.github.io"
@@ -162,6 +163,7 @@ layout: table_wrappers
                 crossorigin="anonymous"
                 async>
         </script>
+        {% endif %}
           <hr>
           <footer>
             {% if site.back_to_top %}
