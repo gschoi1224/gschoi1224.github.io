@@ -3,6 +3,7 @@ layout: default
 nav_order: 2
 comments: true 
 title: 'Next.js'
+has_children: true
 ---
 
 # Next.js
