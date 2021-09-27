@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 3
-comments: true 
+comments: false 
 title: 'Next.js'
 has_children: true
 ---
