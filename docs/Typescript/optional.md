@@ -1,10 +1,11 @@
 ---
 layout: default
-nav_order: 1
+nav_order: 5
 comments: true 
 title: 'optional'
 parent: 'Typescript'
 ---
+
 
 # 타입스크립트 객체의 일부 속성을 optional로 만드는 방법
 ```ts
