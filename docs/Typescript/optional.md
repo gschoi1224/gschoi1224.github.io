@@ -2,7 +2,7 @@
 layout: default
 nav_order: 5
 comments: true 
-title: 'optional'
+title: 'optional로 만들기'
 parent: 'Typescript'
 ---
 
