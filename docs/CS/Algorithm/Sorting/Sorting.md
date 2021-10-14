@@ -1,0 +1,11 @@
+---
+layout: default
+nav_order: 1
+comments: false 
+title: '정렬'
+has_children: true
+parent: 'Algorithm'
+---
+
+# 정렬
+{: .fw-700 .fs-7 }
