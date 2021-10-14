@@ -1,10 +1,9 @@
 ---
 layout: default
-nav_order: 1
+nav_order: 6
 comments: false 
 title: '자료구조'
 has_children: true
-parent: 'CS'
 ---
 
 # 자료구조
