@@ -16,7 +16,7 @@ parent: 'React'
 ```js
 import OutsideClickHandler from 'react-outside-click-handler';
 
-<OutsideClickHandler onOutsideclick={외부 클릭 시 이벤트}
+<OutsideClickHandler onOutsideclick={외부 클릭 시 이벤트}>
 <button />
 </OutsideClickHandler>
 ```
