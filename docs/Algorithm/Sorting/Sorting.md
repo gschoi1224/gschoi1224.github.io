@@ -18,7 +18,7 @@ parent: '알고리즘'
 | [**거품 정렬**](./bubble.md)          | n               | n<sup>2</sup>       | n<sup>2</sup>       | 1         | Yes              |           |
 | [**삽입 정렬**](./insertion.md)          | n               | n<sup>2</sup>       | n<sup>2</sup>       | 1         | Yes              |           |
 | [**선택 정렬**](./selection.md)          | n<sup>2</sup>   | n<sup>2</sup>       | n<sup>2</sup>       | 1         | No               |           |
-| **힙 정렬**            | n&nbsp;log(n)   | n&nbsp;log(n)       | n&nbsp;log(n)       | 1         | No               |           |
+| [**힙 정렬**](./heap.md)            | n&nbsp;log(n)   | n&nbsp;log(n)       | n&nbsp;log(n)       | 1         | No               |           |
 | **병합 정렬**          | n&nbsp;log(n)   | n&nbsp;log(n)       | n&nbsp;log(n)       | n         | Yes              |           |
 | **퀵 정렬**            | n&nbsp;log(n)   | n&nbsp;log(n)       | n<sup>2</sup>       | log(n)    | No               | 퀵 정렬은 보통 제자리(in-place)로 O(log(n)) 스택공간으로 수행됩니다. |
 | **셸 정렬**            | n&nbsp;log(n)   | 간격 순서에 영향을 받습니다.   | n&nbsp;(log(n))<sup>2</sup>  | 1         | No         |           |
