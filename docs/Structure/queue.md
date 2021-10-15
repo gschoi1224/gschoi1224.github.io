@@ -7,6 +7,11 @@ parent: '자료구조'
 seo_title : '자바스크립트_자료구조_큐'
 seo_description : '큐의 개념과 자바스크립트로 구현하는 큐 자료구조'
 seo_keywords : '자바스크립트,큐,js,queue'
+date: 2021-10-15 23:14:00 
+lastmod : 2021-10-15 23:14:00 
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 # 큐
