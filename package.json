@@ -1,8 +1,8 @@
 {
-  "name": "just-the-docs",
+  "name": "dev-log",
   "version": "0.3.3",
   "description": "A modern Jekyll theme for documentation",
-  "repository": "pmarsceill/just-the-docs",
+  "repository": "gschoi1224/gschoi1224.github.io",
   "license": "MIT",
   "bugs": "https://github.com/pmarsceill/just-the-docs/issues",
   "devDependencies": {
