@@ -3,8 +3,10 @@ layout: default
 nav_order: 3
 comments: false 
 title: '큐'
-has_children: true
 parent: '자료구조'
+seo_title : '자바스크립트_자료구조_큐'
+seo_description : '큐의 개념과 자바스크립트로 구현하는 큐 자료구조'
+seo_keywords : '자바스크립트,큐,js,queue'
 ---
 
 # 큐

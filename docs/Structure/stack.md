@@ -3,7 +3,6 @@ layout: default
 nav_order: 2
 comments: false 
 title: '스택'
-has_children: true
 parent: '자료구조'
 ---
 

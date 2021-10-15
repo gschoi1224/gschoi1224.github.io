@@ -3,7 +3,6 @@ layout: default
 nav_order: 1
 comments: false 
 title: '배열'
-has_children: true
 parent: '자료구조'
 ---
 
