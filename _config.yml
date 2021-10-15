@@ -17,7 +17,7 @@ title: "CGS's Dev Log"
 description: "CGS's Dev Log"
 theme: "just-the-docs"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gschoi1224.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gschoi1224.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
