@@ -20,7 +20,7 @@ has_children: true
 | [**연결 리스트**](./linkedList.md)            | n         | n         | 1         | 1         |           |
 | [**해시 테이블** ](./hashTable.md)           | -         | n         | n         | n         | 완벽한 해시 함수의 경우 O(1) |
 | [**이진 탐색 트리** ](./binaryTree.md)         | n         | n         | n         | n         | 균형 트리의 경우 O(log(n)) |
-| **B-트리**                | log(n)    | log(n)    | log(n)    | log(n)    |           |
+| [**B-트리**](./bTree.md)                | log(n)    | log(n)    | log(n)    | log(n)    |           |
 | **Red-Black 트리**        | log(n)    | log(n)    | log(n)    | log(n)    |           |
 | **AVL 트리**              | log(n)    | log(n)    | log(n)    | log(n)    |           |
 | **Bloom Filter**          | -         | 1         | 1         | -         | 거짓 양성이 탐색 중 발생 가능 |
