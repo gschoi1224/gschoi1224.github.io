@@ -24,6 +24,7 @@ has_children: true
 | **Red-Black 트리**        | log(n)    | log(n)    | log(n)    | log(n)    |           |
 | **AVL 트리**              | log(n)    | log(n)    | log(n)    | log(n)    |           |
 | **Bloom Filter**          | -         | 1         | 1         | -         | 거짓 양성이 탐색 중 발생 가능 |
+| [**힙**](./heap.md)              | log(n)    | log(n)    | log(n)    | log(n)    |           |
 
 ### 출처
 
